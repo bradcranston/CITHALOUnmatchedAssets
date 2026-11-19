@@ -1,7 +1,7 @@
 module.exports = {
-  widgetName: "jsDev",
+  widgetName: "HALOUnmatched",
   server: "$",
-  file: "jsDev",
+  file: "CranstonIT",
   uploadScript: "UploadToHTML",
   reloadScript: "Load Widget",
   startDevScript: "Set to Dev Mode",
